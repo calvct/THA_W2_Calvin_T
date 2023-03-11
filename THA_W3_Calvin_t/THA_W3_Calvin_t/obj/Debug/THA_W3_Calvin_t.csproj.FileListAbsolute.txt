@@ -1,0 +1,11 @@
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\bin\Debug\THA_W3_Calvin_t.exe.config
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\bin\Debug\THA_W3_Calvin_t.exe
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\bin\Debug\THA_W3_Calvin_t.pdb
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.csproj.AssemblyReference.cache
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.Form1.resources
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.Properties.Resources.resources
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.csproj.GenerateResource.cache
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.csproj.CoreCompileInputs.cache
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.exe
+C:\Users\Calvin CT\source\repos\THA_W3_Calvin_t\THA_W3_Calvin_t\obj\Debug\THA_W3_Calvin_t.pdb
